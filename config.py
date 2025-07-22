@@ -1,0 +1,5 @@
+BOT_TOKEN = "8064056589:AAGxUZrNpJoV3vL9tflGLIrb9hUgNyR6gsE"
+API_URL = "https://api.intelligence.io.solutions/api/v1/chat/completions"
+AUTH_TOKEN = "Bearer io-v2-eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJvd25lciI6IjA4NmRhZTRlLWRmOTMtNDE2ZC1hZTM1LTNjZDk1Nzk3MGMxZCIsImV4cCI6NDkwNjc3Nzk0NH0.UIB9XtvXh5LHcuExXksgvK6ySnkZen2sECRElfmWyiH2lUXcaQS0RJhAf8tr68h4h9-tGsM4Sye99z0prclPNg"
+MISTRAL_MODEL = "mistralai/Ministral-8B-Instruct-2410"
+DB_PATH = "data/history.db"
